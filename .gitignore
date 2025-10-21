@@ -1,0 +1,252 @@
+# Entornos virtuales de Python# Entornos virtuales
+
+env/env/
+
+venv/venv/
+
+.venv/.venv/
+
+ENV/
+
+env.bak/# Variables de entorno
+
+venv.bak/.env
+
+
+
+# Variables de entorno y configuración sensible# Archivos compilados de Python
+
+.env__pycache__/
+
+.env.local*.py[cod]
+
+.env.development.local*$py.class
+
+.env.test.local
+
+.env.production.local# Archivos de distribución
+
+config.local.pybuild/
+
+settings.local.pydist/
+
+*.egg-info/
+
+# Archivos compilados de Python
+
+__pycache__/# IDEs
+
+*.py[cod].vscode/
+
+*$py.class.idea/
+
+*.so*.code-workspace
+
+
+
+# Distribución / empaquetado# Archivos del sistema
+
+.Python.DS_Store
+
+build/Thumbs.db
+
+develop-eggs/Desktop.ini
+
+dist/
+
+downloads/# Logs y bases de datos temporales
+
+eggs/*.log
+
+.eggs/*.db
+
+lib/*.sqlite
+
+lib64/
+
+parts/# Archivos temporales
+
+sdist/*.tmp
+
+var/*~
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller - generalmente estos archivos se escriben por un script de python desde una plantilla
+*.manifest
+*.spec
+
+# Logs de instalación
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Informes de pruebas unitarias / cobertura
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# Traducciones
+*.mo
+*.pot
+
+# Django específico
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask específico
+instance/
+.webassets-cache
+
+# Scrapy específico
+.scrapy
+
+# Documentación de Sphinx
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv - Para un proyecto, es recomendable ignorar estos archivos
+.python-version
+
+# pipenv
+#Pipfile.lock
+
+# poetry
+#poetry.lock
+
+# pdm
+.pdm.toml
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# IDEs y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PyCharm específico
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore
+#  Uncomment the following line if you want to exclude the .idea directory
+#.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de datos sensibles (descomenta según necesites)
+# data/private/
+# data/raw/
+# data/secrets/
+
+# Archivos de recursos grandes (descomenta si tienes archivos grandes)
+# recursos/videos/
+# recursos/imagenes/large/
+
+# Archivos de configuración local del proyecto
+# config/local/
+
+# Archivos de usuarios específicos
+user_data/
+profiles/
+
+# Archivos de debug y profiling
+*.prof
+debug.log
+error.log
+
+# Archivos de backup automático de editores
+*~
+*.orig
+*.rej
+
+# Certificados y claves
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Archivos compilados de diferentes herramientas
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
