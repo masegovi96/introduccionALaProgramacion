@@ -1,0 +1,13 @@
+Ejercicios para participación (Participación #1 - Segundo Parcial)
+
+Realiza al menos 4 de los siguientes ejercicios propuestos, deberás hacerle push a TU REPOSITORIO, recuerda trabajar en tu carpeta. 
+
+Ejercicio 1.- Haz un programa que solicite al usuario la base y la altura de un rectángulo y calcula su área y perímetro.
+
+Ejercicio 2.- Haz un programa que pida al usuario dos números, y muestre su suma, resta, multiplicación y división.
+
+Ejercicio 3.- Haz un programa que pida dos números y muestre si el primero es mayor, menor o igual al segundo (Utiliza solo operadores de comparación y lógicos)
+
+Ejercicio 4.- Haz un programa que pida la edad de una persona y muestre si es mayor de edad (Utiliza solo operadores de comparación y lógicos)
+
+Ejercicio 5.- Haz un programa en Python que pida una cantidad y la convierta de grados Celcius a Fahrenheit
