@@ -1,0 +1,26 @@
+Esta es una nueva linea escrita en el archivo.
+Otra linea aï¿½adida al archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+Esta linea se ha añadido al final del archivo.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
+
+Esta linea se ha añadido al final del archivo usando r+.
